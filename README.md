@@ -11,7 +11,7 @@ Agent skills for exploring ideas while maintaining critical thinking, logic, and
 ### examples
 
 ```
-explore a topic:  Use CogSec to help me understand [topic].
+explore a topic:  Use cogsec to help me understand [topic].
 ```
 
 Dedicated to the public domain under [CC0 1.0 Universal](LICENSE.md).
