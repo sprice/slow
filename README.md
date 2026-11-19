@@ -9,7 +9,6 @@ Agent skills for exploring ideas while maintaining critical thinking, logic, and
 1. Open **Settings → Plugins → Skills → Add → Add a marketplace** in the desktop app.
 2. Enter `https://github.com/sprice/slow` in **Source**. Leave **Git ref** and **Sparse paths** blank.
 3. Select **Add marketplace**, choose **Slow** in the plugin directory, and install the `slow` plugin.
-4. Start a new chat and try “Use cogsec to help me understand [topic].”
 
 ### Claude
 
