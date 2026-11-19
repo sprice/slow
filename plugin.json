@@ -1,7 +1,12 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "slow",
-  "version": "0.0.4",
-  "description": "Agent skills for productively working with ideas.",
+  "version": "0.0.5",
+  "description": "Agent skills for exploring ideas and thinking critically about them.",
+  "author": {
+    "name": "Shawn Price"
+  },
+  "repository": "https://github.com/sprice/slow",
+  "keywords": ["critical-thinking", "cognitive-security", "evidence-evaluation", "mental-models", "steelmanning"],
   "license": "CC0-1.0"
 }

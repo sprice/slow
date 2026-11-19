@@ -1,8 +1,8 @@
 {
   "name": "slow",
   "displayName": "Slow",
-  "version": "0.0.4",
-  "description": "Test assumptions, weigh competing explanations, and see what the evidence supports.",
+  "version": "0.0.5",
+  "description": "Agent skills for exploring ideas and thinking critically about them.",
   "author": {
     "name": "Shawn Price"
   },
