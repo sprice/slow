@@ -1,0 +1,11 @@
+{
+  "name": "slow",
+  "version": "0.0.4",
+  "description": "Agent skills for productively working with ideas.",
+  "author": {
+    "name": "Shawn Price"
+  },
+  "repository": "https://github.com/sprice/slow",
+  "keywords": ["critical-thinking", "cognitive-security", "evidence-evaluation", "mental-models", "steelmanning"],
+  "license": "CC0-1.0"
+}
