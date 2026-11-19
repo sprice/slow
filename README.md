@@ -1,8 +1,12 @@
-# slow
+# Slow
+
+<p align="center">
+  <img src="assets/slow.png" alt="Slow logo: a pixel-art snail with a brain-shaped shell" width="160">
+</p>
 
 Agent skills for exploring ideas while maintaining critical thinking, logic, and cognitive security.
 
-## installation
+## Installation
 
 ### ChatGPT
 
@@ -22,13 +26,13 @@ In a new Claude chat:
 npx skills add sprice/slow --skill cogsec
 ```
 
-## skills
+## Skills
 
 | skill     | use it when                                                                                           |
 |-----------|-------------------------------------------------------------------------------------------------------|
 | `cogsec`  | you have a hunch and want to test it against the evidence and the strongest alternative explanations. |
 
-### examples
+### Examples
 
 ```
 explore a topic:  Use cogsec to help me understand [topic].
