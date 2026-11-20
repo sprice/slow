@@ -8,5 +8,21 @@
   },
   "repository": "https://github.com/sprice/slow",
   "keywords": ["critical-thinking", "cognitive-security", "evidence-evaluation", "mental-models", "steelmanning"],
-  "license": "CC0-1.0 AND MIT"
+  "license": "CC0-1.0 AND MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Slow",
+        "shortDescription": "Think critically about ideas",
+        "longDescription": "Slow is a collection of skills for thinking critically with AI. Use it to explore ideas, work through questions, and make better sense of what you read, hear, and experience.",
+        "developerName": "Shawn Price",
+        "category": "Education & Research",
+        "websiteURL": "https://github.com/sprice/slow",
+        "supportURL": "https://github.com/sprice/slow/issues",
+        "privacyPolicyURL": "https://github.com/sprice/slow/blob/main/PRIVACY.md",
+        "logo": "./assets/slow.png",
+        "composerIcon": "./assets/slow.png"
+      }
+    }
+  }
 }
