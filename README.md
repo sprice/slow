@@ -28,16 +28,32 @@ npx skills add sprice/slow --skill cogsec
 
 ## Skills
 
-| skill     | use it when                                                                                           |
-|-----------|-------------------------------------------------------------------------------------------------------|
-| `cogsec`  | you have a hunch and want to test it against the evidence and the strongest alternative explanations. |
+Each skill runs only when you call it by name. The same question can go to any of them, so pick the kind of answer you want.
 
-### Examples
+| skill    | what you get                                                                                          |
+|----------|-------------------------------------------------------------------------------------------------------|
+| `cogsec` | your idea tested against the evidence and the strongest alternative explanations, with a bottom line. |
+| `level`  | a direct answer or recommendation and the fact that decides it, usually in a paragraph.               |
+| `sift`   | what something rests on, how solid each part is, and the ideas that explain it.                       |
+
+### Calling a skill
+
+- **Claude Code:** `/level your question` for a standalone skill, or `/slow:level your question` for the plugin.
+- **Codex:** `$level your question`, or pick it from `/skills`.
+- **ChatGPT:** type `@` and choose the skill.
 
 ```
-explore a topic:  Use cogsec to help me understand [topic].
+/cogsec My childhood summers felt longer. Is that because I did more things for the first time, or is there a better explanation?
+/level If I remember a conversation vividly, is that a good reason to trust my memory of the exact words?
+/sift How can two people leave the same conversation with different memories of what was said?
 ```
 
-Dedicated to the public domain under [CC0 1.0 Universal](LICENSE.md).
+## Contributing
+
+See the [contributing guide](CONTRIBUTING.md) to report an issue or suggest a change.
+
+## LICENSE
+
+Markdown and skill content are CC0. Code and other project files are MIT licensed. See [License](LICENSE.md) for details.
 
 A project by [Shawn Price](https://shawnprice.com)

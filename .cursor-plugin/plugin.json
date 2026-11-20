@@ -1,7 +1,7 @@
 {
   "name": "slow",
   "displayName": "Slow",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "Agent skills for exploring ideas and thinking critically about them.",
   "author": {
     "name": "Shawn Price"
@@ -9,5 +9,5 @@
   "repository": "https://github.com/sprice/slow",
   "logo": "assets/slow.png",
   "keywords": ["critical-thinking", "cognitive-security", "evidence-evaluation", "mental-models", "steelmanning"],
-  "license": "CC0-1.0"
+  "license": "CC0-1.0 AND MIT"
 }
