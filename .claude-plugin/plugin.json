@@ -7,6 +7,7 @@
     "name": "Shawn Price"
   },
   "repository": "https://github.com/sprice/slow",
+  "privacyPolicyUrl": "https://github.com/sprice/slow/blob/main/PRIVACY.md",
   "icon": "assets/slow.png",
   "keywords": ["critical-thinking", "cognitive-security", "evidence-evaluation", "mental-models", "steelmanning"],
   "license": "CC0-1.0 AND MIT"
