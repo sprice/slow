@@ -43,9 +43,9 @@ Each skill runs only when you call it by name. The same question can go to any o
 - **ChatGPT:** type `@` and choose the skill.
 
 ```
-/cogsec My childhood summers felt longer. Is that because I did more things for the first time, or is there a better explanation?
-/level If I remember a conversation vividly, is that a good reason to trust my memory of the exact words?
-/sift How can two people leave the same conversation with different memories of what was said?
+/cogsec People say small towns are friendlier. What evidence would distinguish friendliness from seeing the same people more often?
+/level If I can play a song through but can’t restart from the middle, have I memorized it?
+/sift Why do some shared spaces make it easy to talk to strangers while others make the same thing feel awkward?
 ```
 
 ## Contributing
