@@ -6,8 +6,12 @@
   "author": {
     "name": "Shawn Price"
   },
+  "homepage": "https://github.com/sprice/slow",
   "repository": "https://github.com/sprice/slow",
+  "documentationUrl": "https://github.com/sprice/slow/blob/main/README.md",
+  "supportUrl": "https://github.com/sprice/slow/issues/new",
   "privacyPolicyUrl": "https://github.com/sprice/slow/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/sprice/slow/blob/main/LICENSE.md",
   "icon": "assets/slow.png",
   "keywords": ["critical-thinking", "cognitive-security", "evidence-evaluation", "mental-models", "steelmanning"],
   "license": "CC0-1.0 AND MIT"
